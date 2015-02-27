@@ -1,1 +1,0 @@
-{"version":3,"file":"app.js","sourceRoot":"","sources":["app.ts"],"names":["Person","Person.constructor","Person.eats"],"mappings":"AAAA;IACIA;IACAC,CAACA;IAEDD,wBAAAA;QACIE,OAAOA,CAACA,GAAGA,CAACA,aAAaA,CAACA;IAC9BA,CAACA;IACLF,cAACA;AAADA,CAACA,IAAA;;AAID,IAAI,GAAG,GAAW,IAAI,MAAM,CAAC,CAAC;AAC9B,GAAG,CAAC,IAAI,CAAC,CAAC"}
