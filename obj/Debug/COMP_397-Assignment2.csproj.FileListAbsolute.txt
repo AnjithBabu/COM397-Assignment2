@@ -1,0 +1,6 @@
+C:\Users\a_b\Documents\Visual Studio 2013\Projects\COMP_397-Assignment2\COMP_397-Assignment2\bin\COMP_397-Assignment2.dll.config
+C:\Users\a_b\Documents\Visual Studio 2013\Projects\COMP_397-Assignment2\COMP_397-Assignment2\bin\COMP_397-Assignment2.dll
+C:\Users\a_b\Documents\Visual Studio 2013\Projects\COMP_397-Assignment2\COMP_397-Assignment2\bin\COMP_397-Assignment2.pdb
+C:\Users\a_b\Documents\Visual Studio 2013\Projects\COMP_397-Assignment2\COMP_397-Assignment2\obj\Debug\COMP_397-Assignment2.dll
+C:\Users\a_b\Documents\Visual Studio 2013\Projects\COMP_397-Assignment2\COMP_397-Assignment2\obj\Debug\COMP_397-Assignment2.pdb
+C:\Users\a_b\Documents\Visual Studio 2013\Projects\COMP_397-Assignment2\COMP_397-Assignment2\obj\Debug\COMP_397-Assignment2.csprojResolveAssemblyReference.cache
