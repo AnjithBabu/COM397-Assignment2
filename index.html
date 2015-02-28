@@ -6,14 +6,20 @@
     <title>Angry Slot Machine</title>
     <!-- CSS Section -->
     <link href="css/game.css" rel="stylesheet" />
-
+    <!-- CSS Fonts-->
     <link href="css/jigglerfont.css" rel="stylesheet" />
-
     <link href="css/playfont.css" rel="stylesheet" />
 </head>
 <body onload="init();">
-    <!-- Canvas where the Game will Happen-->
-    <canvas id="canvas" width="640" height="750"></canvas>
+    <div style="float:left">
+        <!-- Canvas where the Game will Happen-->
+        <canvas id="canvas" width="640" height="750"></canvas>
+    </div>
+    <div>
+        <p>INSTRUCTIONS: 1. Power button should be on to play the game -||- 2. Reset button resets the scores 
+        3. Bet Max bets 20 and if you lose bet amount and an additional 40 will be taken from credits -||- 
+        4. If pigs comes on reels no win otherwise you will win</p>
+    </div>
 
     <!-- JavaScript -->
     <script src="Scripts/lib/easeljs-0.8.0.min.js"></script>
